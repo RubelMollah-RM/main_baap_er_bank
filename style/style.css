@@ -1,0 +1,76 @@
+.section1{
+    height: 450px;
+    width: 555px;
+    background-color: gray;
+    display: flex;
+    justify-self:center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 80px;
+    box-shadow: 5px 5px 20px 15px plum;
+}
+
+
+.login_div{
+   /* background-color: gray; */
+   text-align: center;
+   justify-content: center;
+   align-items: center;
+   margin: 0 auto;
+}
+
+.emailField{
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+}
+.passwordField{
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    width: 250px;
+}
+
+.login_button{
+    padding: 15px;
+    border-radius: 10px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: greenyellow;
+}
+input{
+    text-align: center;
+    padding: 10px;
+}
+
+h1{
+    font-size: 2rem;
+}
+
+.ha_ha_ha{
+    color: red;
+}
+
+body{
+    background-color: white;
+}
+
+#footerSection{
+    text-align: right;
+    margin-top: 50px;
+    margin-right: 100px;
+    color: rgb(34, 32, 25);
+}
+
+#year{
+    color: red;
+}
+
+#bank_image{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+}
